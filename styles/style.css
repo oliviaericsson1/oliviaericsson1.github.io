@@ -1,0 +1,50 @@
+
+html {
+  font-size: 10px; /* px means "pixels": the base font size is now 10 pixels high */
+  font-family: "Montserrat", Montserrat; /* this should be the rest of the output you got from Google Fonts */
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+  }
+
+h2 {
+  font-size: 40px;
+  text-align: center;
+  color: #a2a832;
+}
+  
+  p,
+  li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+    color: #a8324c
+  }
+
+  html {
+    background-color: #03c6fc;
+  }
+
+  body {
+    width: 700px;
+    margin: 0 auto;
+    background-color: #03fce7;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+  }
+
+  h1 {
+    margin: 0;
+    padding: 10px 0;
+    color: #fc0390;
+    text-shadow: 3px 3px 1px black;
+  }
+
+  img {
+    display: block;
+    margin: 0 auto;
+    width: 250px;
+    height: 175px;
+  }
